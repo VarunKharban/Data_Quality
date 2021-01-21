@@ -1,4 +1,4 @@
 # Data_Quality
-Codes to cehck Data quality 
+Codes to check Data quality 
 
 Use the code responsibly
